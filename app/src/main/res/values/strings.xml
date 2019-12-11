@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">number Phrases</string>
+    <string name="japenese">japenese</string>
+    <string name="greek">greek</string>
+    <string name="german">german</string>
+    <string name="french">french</string>
+    <string name="chinese">chinese</string>
+    <string name="english">english</string>
+</resources>
